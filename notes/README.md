@@ -7,7 +7,7 @@ for a beginner and connect each feature to code in `src/main/java`.
 
 | File | Topic |
 | --- | --- |
-| [`voids`](voids) | Methods that do not return a value |
+| [`voids`](voids.md) | Methods that do not return a value |
 | [`classes-and-objects.md`](classes-and-objects.md) | Classes, objects, and responsibilities |
 | [`constructors-and-fields.md`](constructors-and-fields.md) | Creating objects and storing data |
 | [`methods-and-parameters.md`](methods-and-parameters.md) | Reusable actions, parameters, and results |
