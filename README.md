@@ -19,7 +19,8 @@ A small Java 2D game built with Swing.
 
 On Windows, use `gradlew.bat run`.
 
-##
+## Notes
+
 In the notes folder you will find server markdown documents explaining what certain java features are, what they do, and why they are used in this game. This is here as I used it to support my learning of Java.
 
 
